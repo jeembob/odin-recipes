@@ -1,0 +1,1 @@
+This project is Odin training through basic HTML.
